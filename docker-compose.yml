@@ -1,0 +1,12 @@
+version: '3'
+services:
+  node-app:
+    image: 'prueba-backend'
+    ports:
+      - "3000:3000"
+    depends_on:
+      - redis
+    links:
+      - redis
+  redis: 
+    image: 'redis'
