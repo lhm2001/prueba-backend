@@ -1,7 +1,6 @@
 ## Requisitos Previos
 
-Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu sistema.
-Asegúrate de tener [Redis](https://redis.io/) instalado en tu sistema.
+Asegúrate de tener [Node.js](https://nodejs.org/) y [Redis](https://redis.io/) instalados en tu sistema.
 
 ## Configuración
 
